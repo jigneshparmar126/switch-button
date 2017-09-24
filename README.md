@@ -9,13 +9,12 @@ you can change parent components values or objects value on change of value of t
 #props 
 
 # Props that can be passed to this Component
-
+```
 <table>
      <tr> 
         <th>Props </th>
         <th>Default </th>
          <th>Type </th>
-       
         <th>Description </th>
      </tr>   
      <tr>
@@ -37,7 +36,7 @@ you can change parent components values or objects value on change of value of t
           <td>It allows you pass your any variable value as Boolan like "true or false" </td>
       </tr>  
 </table>   
-
+```
 
 # Example
 ```
