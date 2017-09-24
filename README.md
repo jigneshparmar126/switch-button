@@ -6,10 +6,8 @@ it is simple and you can modify it as per your need.
 it accepts only true or false as model you can used it in loop like selecting and deselecting products
 you can change parent components values or objects value on change of value of this components
 
-#props 
-
 # Props that can be passed to this Component
-```
+
 <table>
      <tr> 
         <th>Props </th>
@@ -36,7 +34,6 @@ you can change parent components values or objects value on change of value of t
           <td>It allows you pass your any variable value as Boolan like "true or false" </td>
       </tr>  
 </table>   
-```
 
 # Example
 ```
