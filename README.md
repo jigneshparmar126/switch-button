@@ -14,8 +14,28 @@ you can change parent components values or objects value on change of value of t
      <tr> 
         <th>Props </th>
         <th>Default </th>
+         <th>Type </th>
+       
         <th>Description </th>
      </tr>   
+     <tr>
+          <td>name</td>
+          <td>NULL </td>
+          <td>String </td>
+          <td>It allows you pass your any variable value or static string like "'is_agree'" </td>
+     </tr>    
+      <tr>
+          <td>checked</td>
+          <td>false </td>
+          <td>Boolean </td>
+          <td>It allows you pass your any variable value as Boolan like "true or false" </td>
+     </tr>  
+      <tr>
+          <td>v-model</td>
+          <td>false </td>
+          <td>Boolean </td>
+          <td>It allows you pass your any variable value as Boolan like "true or false" </td>
+      </tr>  
 </table>   
 
 
